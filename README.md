@@ -3,7 +3,7 @@ Este projeto é uma lista de Pokémon feita com HTML, CSS e JavaScript. Ele cont
 
 # Funcionalidades
 - Dark mode: O usuário pode alternar entre o tema claro e o escuro;
-- Informações dos Pokémons: O usuário pode ver o nome, número e tipos de cada Pokémon, além de sua descrição (no momento apenas em inglês).
+- Informações dos Pokémons: O usuário pode ver o nome, número e tipos de cada Pokémon, além de sua descrição (no momento apenas em inglês e alemão depois de arceus).
 
 # Tecnologias usadas
 - HTML;
